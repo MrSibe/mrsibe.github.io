@@ -3,7 +3,7 @@ layout: blog
 title: CS 168 | 导论
 date: 2025-10-07 21:31:58
 categories: 'CS 168笔记'
-tags: ['计算机', '计算机网络']
+tags: ['计算机', '计算机网络', '公开课']
 permalink: /cs-168/introduction/
 ---
 ## 一、互联网导论

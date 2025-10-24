@@ -3,7 +3,7 @@ layout: blog
 title: MIT 6.S081 | Lab util
 date: 2025-09-28 18:02:33
 categories: 'MIT 6.S081笔记'
-tags: ['刷课', '计算机', '操作系统']
+tags: ['计算机', '操作系统', '公开课']
 permalink: /mit-6s081/lab-util/
 ---
 ## Sleep
