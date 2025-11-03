@@ -1,9 +1,9 @@
 ---
-title: 1-hello_world
+title: CS 61B | Hello World Java
 date: 2025-11-03 10:47:08
 categories: 'CS 61B笔记'
 tags: ['计算机', '数据结构', '公开课']
-permalink: /cs-61b/1-hello_world/
+permalink: /cs-61b/1-hello_world_java/
 ---
 ## Hello world
 
