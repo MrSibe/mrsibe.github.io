@@ -4,7 +4,7 @@ title: CS 61B | 导论
 date: 2025-10-24 15:30:00
 categories: 'CS 61B笔记'
 tags: ['计算机', '数据结构', '公开课']
-permalink: /cs-61b/0-intro/
+permalink: /cs-61b/00-intro/
 ---
 ## 引言
 
