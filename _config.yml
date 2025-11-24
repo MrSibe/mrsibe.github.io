@@ -106,3 +106,16 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
+
+# RSS
+feed:
+  type:
+    - atom
+    - rss2
+  path:
+    - atom.xml
+    - rss2.xml
+  limit: 
+  order_by: -date
+  icon: /images/fluid.png
+  autodiscovery: true
